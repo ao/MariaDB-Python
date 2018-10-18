@@ -1,5 +1,9 @@
-MySQLdb1
+MariaDB-Python Connector
 ========
+
+This is forked from the MySQLdb1 parent, but changed to be more specific to MariaDB.
+
+----
 
 This is the legacy (1.x) version of MySQLdb. While it is still being
 maintained, there will not be a lot of new feature development. 
